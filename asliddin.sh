@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "First name "
+echo "Asliddin Sultonov "
 
-echo "Last name "
+
 
