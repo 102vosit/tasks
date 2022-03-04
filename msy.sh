@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Mustafa, Yilmaz"
+echo "Mustafa Said, Yilmaz"
