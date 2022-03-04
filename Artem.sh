@@ -1,1 +1,3 @@
-Artem Lepinskyi
+#!/bin/bash
+
+echo "Artem Lepinskyi"
