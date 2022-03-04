@@ -1,6 +1,6 @@
-!#/bin/bash
+#!/bin/bash
 
-read -p "First name "
+echo "First name "
 
-read -p "Last name "
+echo "Last name "
 
